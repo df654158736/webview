@@ -133,6 +133,7 @@ env.bak/
 venv.bak/
 *.log
 .vscode
+.png
 
 # Spyder project settings
 .spyderproject
